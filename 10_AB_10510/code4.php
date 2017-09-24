@@ -23,6 +23,13 @@ public function __destruct() {
 echo "Destructor dari class smartphone_singlesim <br />";
 }
 }
+$gadget_baru1 = new smartphone();
+$gadget_baru2 = new smartphone_dualsim();
 $gadget_baru = new smartphone_singlesim();
 echo "Belajar OOP PHP <br />";
+
+
+
+
+
 ?>
