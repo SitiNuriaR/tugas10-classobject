@@ -12,6 +12,7 @@ class smartphone_dualsim extends smartphone {
 	Processor Snapdragon, Ram 2GB";
 	}
 }
-
 $gadget_baru = new smartphone_dualsim();
+//echo $gadget_baru->lihat_spec();
+
 ?>
